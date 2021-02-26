@@ -33,3 +33,7 @@ For the Databse host field, enter:
 
 ![](https://i.imgur.com/mAJYdS1.png)
 
+
+After we click submit we can then use nextcloud to store files and much more!:  
+
+![](https://i.imgur.com/wNdqDGx.png)  
