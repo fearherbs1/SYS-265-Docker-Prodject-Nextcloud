@@ -21,4 +21,15 @@ Edit the mariadb database username and password to your liking in docker-compose
 Start the containers with:  
 `sudo docker-compose up -d`  
 
-Once started, navigate to https://(yourserverip) and you should see the nextcould startup page:  
+Once started, navigate to https://(yourserverip) and you should see the nextcould startup page:    
+
+![](https://i.imgur.com/LMt9fS7.png)
+
+Then click the dropdown for "Storage & Database", click MySQL/MariaDB, and enter your credentials you set up earlier,  
+aswell as creating an admin username and password:
+
+For the Databse host field, enter:  
+`mariadb:3306`
+
+![](https://i.imgur.com/mAJYdS1.png)
+
